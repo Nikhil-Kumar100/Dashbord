@@ -1,0 +1,23 @@
+/* Footer.css */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  /* Optional: Style links within the footer */
+  .footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* Optional: Add hover effect for links */
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  

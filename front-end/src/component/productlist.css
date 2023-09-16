@@ -1,0 +1,35 @@
+/* productlist.css */
+
+/* Style for the container */
+.productlist{
+    text-align: center;
+    margin-top: 50px;
+}
+.productlist ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding: 5px;
+    width: 150px;
+}
+.productlist ul{
+    margin: 0;
+}
+/* productlist.css */
+/* Add your existing CSS styles here */
+
+/* Style for the search input */
+.search-input {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    outline: none; /* Remove the default focus outline */
+  }
+  
+  /* Optionally, you can add styles for the placeholder text */
+  .search-input::placeholder {
+    color: #999;
+  }
+  
